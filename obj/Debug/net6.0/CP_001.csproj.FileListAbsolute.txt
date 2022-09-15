@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\bin\Debug\net6.0\CP_001.exe
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\bin\Debug\net6.0\CP_001.deps.json
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\bin\Debug\net6.0\CP_001.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\bin\Debug\net6.0\CP_001.dll
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\bin\Debug\net6.0\CP_001.pdb
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.dll
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\refint\CP_001.dll
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.pdb
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\CP_001.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\C#\CP_001\obj\Debug\net6.0\ref\CP_001.dll
